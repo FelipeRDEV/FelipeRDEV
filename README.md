@@ -22,7 +22,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes&logoColor=326CE5)
 ![Helm](https://img.shields.io/badge/-Helm-333333?style=flat&logo=helm&logoColor=0F1689)
-![Azure DevOps](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops&logoColor=0078D7)
+![Azure](https://img.shields.io/badge/-Azure%20DevOps-333333?style=flat&logo=azuredevops&logoColor=0078D7)
 ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws&logoColor=FF9900)
 ![Amazon S3](https://img.shields.io/badge/-Amazon%20S3-333333?style=flat&logo=amazons3&logoColor=569A31)
 ![GCP](https://img.shields.io/badge/-GCP-333333?style=flat&logo=googlecloud&logoColor=4285F4)
@@ -30,7 +30,6 @@
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![CI/CD](https://img.shields.io/badge/-CI%2FCD-333333?style=flat&logo=githubactions&logoColor=2088FF)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
-![WSL](https://img.shields.io/badge/-WSL-333333?style=flat&logo=windows11&logoColor=0078D6)
 
 **APIs**
 
