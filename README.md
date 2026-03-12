@@ -1,4 +1,4 @@
-## Putting badges here against my will since 2019...
+## Since 2019
 
 **Backend & Frameworks**
 
