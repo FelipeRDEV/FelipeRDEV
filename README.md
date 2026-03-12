@@ -49,7 +49,7 @@
 ![OAuth 2.0](https://img.shields.io/badge/-OAuth%202.0-333333?style=flat&logo=oauth&logoColor=ffffff)
 ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=jsonwebtokens&logoColor=ffffff)
 
-**Frotend**
+**Frontend**
 
 ![HTML5](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3&logoColor=1572B6)
@@ -61,7 +61,7 @@
 
 ![Jira](https://img.shields.io/badge/-Jira-333333?style=flat&logo=jira&logoColor=0052CC)
 ![DevRev](https://img.shields.io/badge/-DevRev-333333?style=flat&logo=devrev&logoColor=00D4FF)
-![Zoho Desk](https://img.shields.io/badge/-Zoho%20Desk-333333?style=flat&logo=zoho&logoColor=E42527)
+![Zoho](https://img.shields.io/badge/-Zoho-333333?style=flat&logo=zoho&logoColor=E42527)
 ![Zendesk](https://img.shields.io/badge/-Zendesk-333333?style=flat&logo=zendesk&logoColor=03363D)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=FF6C37)
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia&logoColor=4000BF)
