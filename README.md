@@ -6,11 +6,10 @@
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=csharp&logoColor=239120)
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet&logoColor=512BD4)
 ![ASP.NET MVC](https://img.shields.io/badge/-ASP.NET%20MVC-333333?style=flat&logo=dotnet&logoColor=512BD4)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs&logoColor=339933)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=nodedotjs&logoColor=339933)
 ![Entity Framework](https://img.shields.io/badge/-Entity%20Framework-333333?style=flat&logo=dotnet&logoColor=512BD4)
-![Dapper](https://img.shields.io/badge/-Dapper-333333?style=flat&logo=dotnet&logoColor=512BD4)
+
 
 **Databases**
 
